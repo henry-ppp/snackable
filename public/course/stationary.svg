@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 320" role="img" aria-label="A loss curve that flattens, then falls again">
+  <rect width="640" height="320" rx="28" fill="#E7F4FF"/>
+  <path d="M56 268 H592 M56 268 V36" fill="none" stroke="#8A4A1C" stroke-width="4" stroke-linecap="round"/>
+  <path d="M72 64 C 150 66, 190 150, 250 176 C 310 202, 340 188, 390 188 C 450 188, 470 230, 530 246 C 575 258, 590 210, 604 168" fill="none" stroke="#F28A2E" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="390" cy="188" r="11" fill="#F5332B" stroke="#fff" stroke-width="3"/>
+  <text x="408" y="176" fill="#6a3d12" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">slope 0</text>
+</svg>
