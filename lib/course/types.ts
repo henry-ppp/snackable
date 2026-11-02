@@ -1,6 +1,6 @@
 /**
  * The content contract. A subject file in content/subjects is the only
- * thing a new study adds. See .cursor/skills/course-material/SKILL.md.
+ * thing a new study adds. See MANUAL.md.
  */
 
 export type Choice = {
